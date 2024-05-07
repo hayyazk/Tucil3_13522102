@@ -50,10 +50,10 @@ public class Astar {
             if (current.name.equals(end)) {
                 this.printPath(current);
                 System.out.printf("Words visited: %d\n", visited.size());
-                // Runtime runtime = Runtime.getRuntime();
-                // runtime.gc();
-                // System.out.print("Memory used: ");
-                // System.out.println(runtime.totalMemory() - runtime.freeMemory());
+                Runtime runtime = Runtime.getRuntime();
+                runtime.gc();
+                System.out.print("Memory used: ");
+                System.out.println(runtime.totalMemory() - runtime.freeMemory());
                 break;
             }
             for (String child : words.getNeighbors(current.name)) {
