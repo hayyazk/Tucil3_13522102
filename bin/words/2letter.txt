@@ -1,0 +1,192 @@
+aa
+ab ad ae ag ah ai al am an ar as at aw ax ay ba fa ha ka la ma na pa ta ya 
+ab
+aa ad ae ag ah ai al am an ar as at aw ax ay 
+ad
+aa ab ae ag ah ai al am an ar as at aw ax ay ed id od 
+ae
+aa ab ad ag ah ai al am an ar as at aw ax ay be de he me ne oe pe re we ye 
+ag
+aa ab ad ae ah ai al am an ar as at aw ax ay 
+ah
+aa ab ad ae ag ai al am an ar as at aw ax ay eh oh sh uh 
+ai
+aa ab ad ae ag ah al am an ar as at aw ax ay bi hi li mi pi si ti xi 
+al
+aa ab ad ae ag ah ai am an ar as at aw ax ay el 
+am
+aa ab ad ae ag ah ai al an ar as at aw ax ay em hm mm om um 
+an
+aa ab ad ae ag ah ai al am ar as at aw ax ay en in on un 
+ar
+aa ab ad ae ag ah ai al am an as at aw ax ay er or 
+as
+aa ab ad ae ag ah ai al am an ar at aw ax ay es is os us 
+at
+aa ab ad ae ag ah ai al am an ar as aw ax ay et it ut 
+aw
+aa ab ad ae ag ah ai al am an ar as at ax ay ow 
+ax
+aa ab ad ae ag ah ai al am an ar as at aw ay ex ox 
+ay
+aa ab ad ae ag ah ai al am an ar as at aw ax by my oy 
+ba
+aa be bi bo by fa ha ka la ma na pa ta ya 
+be
+ae ba bi bo by de he me ne oe pe re we ye 
+bi
+ai ba be bo by hi li mi pi si ti xi 
+bo
+ba be bi by do go ho jo lo mo no so to wo yo 
+by
+ay ba be bi bo my oy 
+de
+ae be do he me ne oe pe re we ye 
+do
+bo de go ho jo lo mo no so to wo yo 
+ed
+ad ef eh el em en er es et ex id od 
+ef
+ed eh el em en er es et ex if of 
+eh
+ah ed ef el em en er es et ex oh sh uh 
+el
+al ed ef eh em en er es et ex 
+em
+am ed ef eh el en er es et ex hm mm om um 
+en
+an ed ef eh el em er es et ex in on un 
+er
+ar ed ef eh el em en es et ex or 
+es
+as ed ef eh el em en er et ex is os us 
+et
+at ed ef eh el em en er es ex it ut 
+ex
+ax ed ef eh el em en er es et ox 
+fa
+aa ba ha ka la ma na pa ta ya 
+go
+bo do ho jo lo mo no so to wo yo 
+ha
+aa ba fa he hi hm ho ka la ma na pa ta ya 
+he
+ae be de ha hi hm ho me ne oe pe re we ye 
+hi
+ai bi ha he hm ho li mi pi si ti xi 
+hm
+am em ha he hi ho mm om um 
+ho
+bo do go ha he hi hm jo lo mo no so to wo yo 
+id
+ad ed if in is it od 
+if
+ef id in is it of 
+in
+an en id if is it on un 
+is
+as es id if in it os us 
+it
+at et id if in is ut 
+jo
+bo do go ho lo mo no so to wo yo 
+ka
+aa ba fa ha la ma na pa ta ya 
+la
+aa ba fa ha ka li lo ma na pa ta ya 
+li
+ai bi hi la lo mi pi si ti xi 
+lo
+bo do go ho jo la li mo no so to wo yo 
+ma
+aa ba fa ha ka la me mi mm mo mu my na pa ta ya 
+me
+ae be de he ma mi mm mo mu my ne oe pe re we ye 
+mi
+ai bi hi li ma me mm mo mu my pi si ti xi 
+mm
+am em hm ma me mi mo mu my om um 
+mo
+bo do go ho jo lo ma me mi mm mu my no so to wo yo 
+mu
+ma me mi mm mo my nu xu 
+my
+ay by ma me mi mm mo mu oy 
+na
+aa ba fa ha ka la ma ne no nu pa ta ya 
+ne
+ae be de he me na no nu oe pe re we ye 
+no
+bo do go ho jo lo mo na ne nu so to wo yo 
+nu
+mu na ne no xu 
+od
+ad ed id oe of oh om on op or os ow ox oy 
+oe
+ae be de he me ne od of oh om on op or os ow ox oy pe re we ye 
+of
+ef if od oe oh om on op or os ow ox oy 
+oh
+ah eh od oe of om on op or os ow ox oy sh uh 
+om
+am em hm mm od oe of oh on op or os ow ox oy um 
+on
+an en in od oe of oh om op or os ow ox oy un 
+op
+od oe of oh om on or os ow ox oy up 
+or
+ar er od oe of oh om on op os ow ox oy 
+os
+as es is od oe of oh om on op or ow ox oy us 
+ow
+aw od oe of oh om on op or os ox oy 
+ox
+ax ex od oe of oh om on op or os ow oy 
+oy
+ay by my od oe of oh om on op or os ow ox 
+pa
+aa ba fa ha ka la ma na pe pi ta ya 
+pe
+ae be de he me ne oe pa pi re we ye 
+pi
+ai bi hi li mi pa pe si ti xi 
+re
+ae be de he me ne oe pe we ye 
+sh
+ah eh oh si so uh 
+si
+ai bi hi li mi pi sh so ti xi 
+so
+bo do go ho jo lo mo no sh si to wo yo 
+ta
+aa ba fa ha ka la ma na pa ti to ya 
+ti
+ai bi hi li mi pi si ta to xi 
+to
+bo do go ho jo lo mo no so ta ti wo yo 
+uh
+ah eh oh sh um un up us ut 
+um
+am em hm mm om uh un up us ut 
+un
+an en in on uh um up us ut 
+up
+op uh um un us ut 
+us
+as es is os uh um un up ut 
+ut
+at et it uh um un up us 
+we
+ae be de he me ne oe pe re wo ye 
+wo
+bo do go ho jo lo mo no so to we yo 
+xi
+ai bi hi li mi pi si ti xu 
+xu
+mu nu xi 
+ya
+aa ba fa ha ka la ma na pa ta ye yo 
+ye
+ae be de he me ne oe pe re we ya yo 
+yo
+bo do go ho jo lo mo no so to wo ya ye 
